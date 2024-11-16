@@ -17,7 +17,15 @@ This project is designed to analyze customer insights, transaction patterns, and
 
 **Key Skills**: SQL, Data Analysis, Customer Insights, Transaction Analysis.
 
-### 2. Sales and Market Analysis of Software Product (Sep 2022)
+### 2. Echocardiogram Survival Prediction Study (Aug 2023)
+Analyzed echocardiogram data to predict one-year survival rates post-heart attack. Key contributions include identifying key survival indicators, applying statistical methods for predictive analysis, and deriving insights to enhance patient care in cardiac health.
+
+**Key Skills**: Predictive Modeling, Survival Analysis, Statistical Methods (Cox Proportional Hazards, Regression).
+
+**Highlights**: Developed a model to assess survival probabilities, contributing valuable insights for clinical assessments and treatment planning.
+
+
+### 3. Sales and Market Analysis of Software Product (Sep 2022)
 Analyzed sales performance and market positioning for a software product targeted at C++ developers. Key contributions include identifying sales growth trends, building forecasting models, and conducting competitive analysis within the IDE and text editor market.
 - **Key Skills**: Time Series Forecasting (ARIMA), Sales Trend Analysis, Market Competitor Insights.
 - **Highlights**: Identified 32.8% sales revenue growth and provided actionable recommendations for product improvement.

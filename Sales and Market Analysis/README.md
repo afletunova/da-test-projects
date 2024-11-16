@@ -3,14 +3,14 @@
 This project (done in 2022) focuses on analyzing the sales performance and market positioning of a specific software product aimed at C++ developers. It encompasses sales data analysis from 2019 to 2020, forecasting future sales, and understanding user behavior and preferences within the competitive landscape of integrated development environments (IDEs) and text editors.
 
 ## Table of Contents
-- [Project Goals](# Project Goals)
-- [Data Analysis](# Data Analysis)
-- [Forecasting Model](# Forecasting Model)
-- [Market Competitors](# Market Competitors)
-- [User Behavior Insights](# User Behavior Insights)
-- [Recommendations](# Recommendations)
-- [Technologies Used](# Technologies Used)
-- [Key Achievements](# Key Achievements)
+- [Project Goals](#Project-Goals)
+- [Data Analysis](#Data-Analysis)
+- [Forecasting Model](#Forecasting-Model)
+- [Market Competitors](#Market-Competitors)
+- [User Behavior Insights](#User-Behavior-Insights)
+- [Recommendations](#Recommendations)
+- [Technologies Used](#Technologies-Used)
+- [Key Achievements](#Key-Achievements)
 ## Project Goals
 - Analyze sales revenue data for the software product from 2019 to 2020.
 - Forecast expected sales revenue for 2021 using statistical models.
